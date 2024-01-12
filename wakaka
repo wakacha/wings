@@ -409,10 +409,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
 
 #EXTINF:-1 tvg-id="AstroCeria.my" ch-number=" " tvg-name="Astro Ceria HD" group-title="TV MALAYSIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
 http://muka03.wanicelife.com:8880/D12m2370/88152514/71080
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+
 
 
 
