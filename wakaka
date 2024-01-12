@@ -439,7 +439,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 https://ktpremium.com:443/w3184/918172747939/25855
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="TV MALAYSIA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png", WARNA HD (Server 2)
-https://ktpremium.com:443/w3184/918172747939/25867
+http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="TV MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png", Citra HD (Server 2)
 https://ktpremium.com:443/w3184/918172747939/25852
