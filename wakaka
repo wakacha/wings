@@ -121,7 +121,7 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
-#EXTINF:-1 group-title="TV MALAYSIA" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", TV Okey (MyFreeview Feed)
+#EXTINF:-1 group-title="TV MALAYSIA" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", TV Okey 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -184,7 +184,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-name="Al-Hijrah" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Hijrah.png" group-title="TV MALAYSIA",114 TV Alhijrah (server 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V6jW+eODKIfbGOpgcRGHNg","kid":"QaQvta9FdQHBG7mxWNWhEA"}],"type":"temporary"}
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
