@@ -70,7 +70,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CtHnstcf1zpcGZc55TTaSw", "kid":"iLMk5+djUyt3DYTTcNfIEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroTutorTVSK" tvg-name="Astro Tutor TV SK" group-title="TV MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_UPSR.png",601 TUTOR TV SK
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -78,7 +78,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroTutorTVSMK" tvg-name="Astro Tutor TV SMK" group-title="TV MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_SPM.png",603 TUTOR TV SMK
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default.mpd
 
 
 
