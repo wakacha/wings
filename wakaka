@@ -184,7 +184,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 
 
 
-#EXTINF:-1 group-title="TV MALAYSIA" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",1240Berita RTM
+#EXTINF:-1 group-title="TV MALAYSIA" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",124 Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd 
 
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="TV MALAYSIA" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS 
