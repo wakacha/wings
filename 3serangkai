@@ -22,4 +22,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default.mpd
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="AstroGO" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default.mpd
 
+#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Astroxx",WARNA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
+https://hls.ulivetv.net/v/live/d839y3wfvxmo.m3u8?stream_id=d839y3wfvxmo&timestamp=1705302003&rand=PB7sgsOROO&uuid=vAp3SARyv9oNy72YeefPPq&from=web&sign=8703adf8f18281fcd89456e99ea81f4c&stream_id=d839y3wfvxmo|Referer=https:histar.tv
+
+
+#EXTINF:-1,assp1
+https://hls.watchtv.uk/Assp1_mega/playlist-17.m3u8a?t=1705256836&token=e3a65cee52a6a943fea164997a44e0da|Referer=https://chaozjizhibo.net
+
 
