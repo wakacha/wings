@@ -30,4 +30,6 @@ https://hls.ulivetv.net/v/live/d839y3wfvxmo.m3u8?stream_id=d839y3wfvxmo&timestam
 #EXTINF:-1,assp1
 https://hls.watchtv.uk/Assp1_mega/playlist-17.m3u8a?t=1705312243&token=8340f3c69de35317a593dc38e67452ac|Referer=chaojizhibo.net
 
+#EXTINF:-1,ELTA3
+https://hls.ulivetv.net/v/live/cnnh2pl4cam8.m3u8?stream_id=cnnh2pl4cam8&timestamp=1705313773&rand=qJl8XI53ZT&uuid=55wLHBoMU73NFQSmYm5VNu&from=web&sign=e46537921e7df1e15e144472c9893eea&stream_id=cnnh2pl4cam8&dispatch=SktMQUZJSkFLTERGSjEyMzQxMkpLTEFKRksxMjM|Referer=https//histar.tv
 
