@@ -208,7 +208,7 @@ http://muka03.wanicelife.com:8880/D12m2370/88152514/1706
 
 
 #EXTINF:-1 tvg-id="" group-title="TV MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",118 ASTRO CITRA
-http://metatvpro.com:25461//live/W1808/1109/17.m3u8
+http://startv365.com:80/live/0664251418/9924187372/400200335.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
