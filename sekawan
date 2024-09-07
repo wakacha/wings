@@ -1,0 +1,21 @@
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="104.astro" tvg-name="RIA" group-title="Serangkai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" ch-number="104",104 Astro Ria FHD
+https://cikgusuraya.tech/penjilat/pencurikontol.php?id=1004
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CoDiDFaOiOU8cIfBxkkzGA", "kid":"qixlPwwFVnrig8SjJxqYEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="107.astro" tvg-name="WARNA" group-title="Serangkai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" ch-number="107",107 Astro Warna 
+https://cikgusuraya.tech/penjilat/pencurikontol.php?id=2402 
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA" group-title="Serangkai" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Astro_GO_2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" ch-number="108",108 Astro Citra
+https://cikgusuraya.tech/penjilat/pencurikontol.php?id=2700
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA" group-title="Serangkai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Astro_Prima_HD.png" ch-number="105",105 Astro Prima
+https://cikgusuraya.tech/penjilat/pencurikontol.php?id=1000
